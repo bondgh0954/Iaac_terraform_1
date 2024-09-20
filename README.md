@@ -40,6 +40,9 @@
    <img src='./sst/s2.png' height="80%" width="80%" alt="Disk Sanitization Steps">
    <img src='./sst/s1.png' height="80%" width="80%" alt="Disk Sanitization Steps">
    <img src='./sst/s6.png' height="80%" width="80%" alt="Disk Sanitization Steps">
+   <img src='./sst/s7.png' height="80%" width="80%" alt="Disk Sanitization Steps">
+   <img src='./sst/s8.png' height="80%" width="80%" alt="Disk Sanitization Steps">
+   <img src='./sst/s9.png' height="80%" width="80%" alt="Disk Sanitization Steps">
 
 
    
