@@ -73,7 +73,18 @@
  
 
 
-   <h2>step 2  </h2>
+   <h2>step 2  Creation of Security group and instance</h2>
+
+   <img src='./sst/s12.png' height="80%" width="80%" alt="Disk Sanitization Steps">
+
+   <img src='./sst/s13.png' height="80%" width="80%" alt="Disk Sanitization Steps">
+
+   <img src='./sst/s14.png' height="80%" width="80%" alt="Disk Sanitization Steps">
+
+   <img src='./sst/s15.png' height="80%" width="80%" alt="Disk Sanitization Steps">
+   <img src='./sst/s11.png' height="80%" width="80%" alt="Disk Sanitization Steps">
+   <img src='./sst/s18.png' height="80%" width="80%" alt="Disk Sanitization Steps">
+   <img src='./sst/s19.png' height="80%" width="80%" alt="Disk Sanitization Steps">
 
 
     
