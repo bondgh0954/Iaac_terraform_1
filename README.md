@@ -30,17 +30,17 @@
    authenticate with AWS using AWS global credentials <br/>
 
 
+
+
+
    create aws resources in the main.tf file <br/>
    Resources created includes: vpc, subnet and internet gateway. <br/>
-   The internet gateway is associated with the default route table and configure to allow connection if vpc to internet
-         
-   
-     
-
-          
-
-  
+   The internet gateway is associated with the default route table and configure to allow connection if vpc to internet        
    <img src='./sst/s3.png' height="80%" width="80%" alt="Disk Sanitization Steps">
+
+
+
+   
    <img src='./sst/s4.png' height="80%" width="80%" alt="Disk Sanitization Steps">
    <img src='./sst/s2.png' height="80%" width="80%" alt="Disk Sanitization Steps">
    <img src='./sst/s1.png' height="80%" width="80%" alt="Disk Sanitization Steps">
