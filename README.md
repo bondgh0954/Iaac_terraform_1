@@ -35,7 +35,11 @@
           
 
   
-   <img src='./m/y1.png' height="80%" width="80%" alt="Disk Sanitization Steps">
+   <img src='./sst/s3.png' height="80%" width="80%" alt="Disk Sanitization Steps">
+   <img src='./sst/s4.png' height="80%" width="80%" alt="Disk Sanitization Steps">
+   <img src='./sst/s2.png' height="80%" width="80%" alt="Disk Sanitization Steps">
+   <img src='./sst/s1.png' height="80%" width="80%" alt="Disk Sanitization Steps">
+   <img src='./sst/s6.png' height="80%" width="80%" alt="Disk Sanitization Steps">
 
 
    
@@ -44,8 +48,7 @@
 
    
    
-   <img src='./ym/y2.png' height="80%" width="80%" alt="Disk Sanitization Step">
-
+   
 
  
 
@@ -55,7 +58,6 @@
 
     
   
-  <img src='./ym/y3.png' height="80%" width="80%" alt="Disk Sanitization Step"> 
 
 
 
@@ -65,8 +67,7 @@
 
 
 
-   <img src='./img/w4.png' height="80%" width="80%" alt="Disk Sanitization Step"> 
-   
+  
 
  
    
@@ -79,8 +80,7 @@
    
 
 
-   <img src='./img/w11.png' height="80%" width="80%" alt="Disk Sanitization Step"> 
-
+  
 
    
 
