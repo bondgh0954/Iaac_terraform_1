@@ -27,8 +27,8 @@
    <h2>step 1  Create VPC </h2>
    Create a file in the code editor for providers <br/>
    Create main.tf file in the code editor  <br/>
-     authenticate with AWS using AWS global credentials <br/>
-         aws configure
+   authenticate with AWS using AWS global credentials <br/>
+         
    
      
 
