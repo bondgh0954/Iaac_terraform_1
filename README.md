@@ -40,7 +40,8 @@
 
 
 
-   The internet gateway is associated with the default route table and configure to allow connection if vpc to internet 
+   The internet gateway is associated with the default route table <br/>
+   This configuration allowa connection if vpc to internet 
    <img src='./sst/s4.png' height="80%" width="80%" alt="Disk Sanitization Steps">
 
    values are parameterized and listed in the variables.tf file. This makes the configuration file reuseable
