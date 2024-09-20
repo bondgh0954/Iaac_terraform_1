@@ -57,6 +57,8 @@
 
        terraform apply
    <img src='./sst/s8.png' height="80%" width="80%" alt="Disk Sanitization Steps">
+
+   Vpc, subnet, internet gateway and default route table have been created
    <img src='./sst/s9.png' height="80%" width="80%" alt="Disk Sanitization Steps">
 
 
