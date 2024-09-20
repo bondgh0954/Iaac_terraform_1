@@ -43,9 +43,13 @@
    The internet gateway is associated with the default route table and configure to allow connection if vpc to internet 
    <img src='./sst/s4.png' height="80%" width="80%" alt="Disk Sanitization Steps">
 
-   
+   values are parameterized and listed in the variables.tf file. This makes the configuration file reuseable
    <img src='./sst/s2.png' height="80%" width="80%" alt="Disk Sanitization Steps">
+
+   the values of the variable are listed in the terraform.tfvars file
    <img src='./sst/s1.png' height="80%" width="80%" alt="Disk Sanitization Steps">
+
+   
    <img src='./sst/s6.png' height="80%" width="80%" alt="Disk Sanitization Steps">
    <img src='./sst/s7.png' height="80%" width="80%" alt="Disk Sanitization Steps">
    <img src='./sst/s8.png' height="80%" width="80%" alt="Disk Sanitization Steps">
