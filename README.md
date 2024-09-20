@@ -74,16 +74,31 @@
 
 
    <h2>step 2  Creation of Security group and instance</h2>
+    Creation of security group: port 22 is configured to allow only my ip address to ssh into the instance <br/>
+    port 8080 is opened to allow all traffic from the internet because the application is run on that port 
 
    <img src='./sst/s12.png' height="80%" width="80%" alt="Disk Sanitization Steps">
 
+
+   configuration is made to allow accessing ami id dynamically without hard coding
+
    <img src='./sst/s13.png' height="80%" width="80%" alt="Disk Sanitization Steps">
+
+   Key pair associated with the created instance is created using my public key so with the corresponding private key i can ssh into the server
 
    <img src='./sst/s14.png' height="80%" width="80%" alt="Disk Sanitization Steps">
 
+    Creation of instance
    <img src='./sst/s15.png' height="80%" width="80%" alt="Disk Sanitization Steps">
+
+   The script is passed to user data to automatically install docker and run jenkins on port 8080 upon creation of the instance
    <img src='./sst/s11.png' height="80%" width="80%" alt="Disk Sanitization Steps">
+
+   Able to ssh into the created instance with the public and private key <br/>
+   docker was installed and Jenkins container started successfully
    <img src='./sst/s18.png' height="80%" width="80%" alt="Disk Sanitization Steps">
+
+   Jenkins running on specified port 8080 on the instance
    <img src='./sst/s19.png' height="80%" width="80%" alt="Disk Sanitization Steps">
 
 
@@ -94,7 +109,7 @@
 
   
 
-   <h2>step 3 </h2>
+
 
 
 
@@ -104,7 +119,7 @@
    
    
 
-   <h2>step 4 
+  
   
    
 
