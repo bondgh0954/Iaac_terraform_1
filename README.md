@@ -28,6 +28,11 @@
    Create a file in the code editor for providers <br/>
    Create main.tf file in the code editor  <br/>
    authenticate with AWS using AWS global credentials <br/>
+
+
+   create aws resources in the main.tf file <br/>
+   Resources created includes: vpc, subnet and internet gateway. <br/>
+   The internet gateway is associated with the default route table and configure to allow connection if vpc to internet
          
    
      
