@@ -49,7 +49,7 @@
    the values of the variable are listed in the terraform.tfvars file
    <img src='./sst/s1.png' height="80%" width="80%" alt="Disk Sanitization Steps">
 
-   
+         terraform init: 
    <img src='./sst/s6.png' height="80%" width="80%" alt="Disk Sanitization Steps">
    <img src='./sst/s7.png' height="80%" width="80%" alt="Disk Sanitization Steps">
    <img src='./sst/s8.png' height="80%" width="80%" alt="Disk Sanitization Steps">
